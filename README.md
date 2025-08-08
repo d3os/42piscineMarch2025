@@ -16,7 +16,7 @@ LIFE / WORKING / MANAGEMENT OF TIME
 - Try to come everyday, at least be regular -> same hours of presence each day
 - Do not do less or too many hours in a day, (6h/day is not very impressive, 8 is ok, 9 or 10 can be impressive if you are able to maintain it all the four weeks)
 - Don't bite off more than you can chew, regularity and sustainability, If you give all at the start and can't sustain you are fucked
-- Try rushes at least 1 and 2, the first is very easy, 2 3 4 increase dissiculty
+- Try rushes at least 1 and 2, the first is very easy, 2 3 4 are each harder than the previous one.
 
 SOCIAL / RELATIONS / BEING
 - Don't be punished, or the less at possible (bottle on table, shoes off, etc etc ...)
