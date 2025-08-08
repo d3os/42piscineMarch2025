@@ -1,6 +1,8 @@
-All the files are 100% moulinette certified. All the C modules I did are completed 100%, not the shell modules.
+There is my work during march 2025 piscine in 42 Paris, it is my way, not THE solution, build your own.
+All the C modules I did are completed 100% even the time it took me (but not the shell modules).
+All the files are 100% moulinette certified.
 
-I have not been admitted, probably due to a lack of investment. My tips for getting selected : (I did it in original campus at Paris)
+I have not been admitted, probably due to a lack of investment. My tips to not be like me :
 
 TECHNIC / SKILLS / KNOWLEDGE
 - If you good at C and programming : Create a group around you, share your knowledge, encourages mutual aid in your group.
